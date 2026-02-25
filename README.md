@@ -43,4 +43,4 @@ This project is maintained with the **Greater Dusseldorf and Ingolstadt** automo
 2. **Automating Compliance for AI-Driven Perception**
 
 ---
-*Maintained by [Your Business Name]. Committed to the VDI vision of engineering excellence.*
+*Maintained by [LXD Advisory]. Committed to the VDI vision of engineering excellence.*

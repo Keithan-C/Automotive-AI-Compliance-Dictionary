@@ -1,0 +1,22 @@
+{
+  "system_identity": {
+    "model_name": "Hydrogen-Tank-Surrogate-v2.1",
+    "provider": "SEGULA Technologies / Dirk Rensink Team",
+    "intended_purpose": "Fast-track stress prediction for Type IV Hydrogen Tanks"
+  },
+  "article_12_logging": {
+    "timestamp": "2026-03-12T11:45:00Z",
+    "trigger_event": "Inference_Result_Generated",
+    "input_data_hash": "sha256:e3b0c442...",
+    "verification_status": "Verified_by_Human",
+    "verifier_id": "DR-492"
+  },
+  "annex_iv_design_logic": {
+    "algorithm_type": "Physics-Informed Neural Network (PINN)",
+    "training_provenance": "10,000 High-Fidelity Ansys CFD runs",
+    "accuracy_metrics": {
+      "mean_absolute_error": "0.0023",
+      "robustness_score": "High"
+    }
+  }
+}
